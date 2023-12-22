@@ -1,0 +1,696 @@
+﻿Title:
+	Legend of Galactic Heroes
+	Episode 001
+	In the Eternal Night
+Translation:
+	Sue Shambaugh
+
+
+This script was prepared using the Central Anime subtitles. Minor changes to punctuation have been made to improve script readability. 
+
+OPENING THEME
+"Skies of Love"
+
+NARRATOR
+In one small part of space, the war continues. 
+In war, there can be only one victor. Space is an uninhabited wilderness and bloody wounds disappear with time.Maybe the multitude of stars in the sky remember those wounds.Maybe it is fated that even those stars will vanish one day.
+Man's presence in the midst of these stars is all that remains of a forgotten battle.
+At this time, in the middle of the universe, an insignificant island, a galaxy, was at war.
+The combatants are the Galactic Empire and the Free Planets Alliance. 
+Also, trading with both sides, is the small city-state of Phezzan, a feudal territory. Remaining neutral in the war, it watches both sides battle. 
+The war has already been going on for 150 years.
+
+DATE CARD
+Space year U.C.796 Jan
+Imperial year R.C.487 Jan.
+The New Year
+
+ID CARD
+das Flaggschiff Brunhild
+
+ID CARD
+Admiral Willibald Joachim von Merkatz
+
+SIEGFRIED KIRCHEIS
+Looking at the stars?
+
+REINHARD VON LOHENGRAMM
+The stars are good.
+Unmoving, they keep watch over us, forever shining, the only constant left to us.
+
+ID CARD
+Captain Siegfried Kircheis
+
+SIEGFRIED KIRCHEIS
+Our battles are insignificant compared to that vastness.
+
+ID CARD
+High Admiral Reinhard von Lohengramm
+
+REINHARD VON LOHENGRAMM
+Certainly, compared to what we see, ours is but a small war.
+And... 
+
+SIEGFRIED KIRCHEIS
+The enemy's forces outnumber us two to one, and surround us on three sides. Therefore, all five admirals have been desperately seeking an audience with Your Excellency.
+
+REINHARD VON LOHENGRAMM
+It doesn't surprise me that those silly old men have lost their nerve.
+
+MERKATZ
+Your Excellency, thank you for granting us an audience.
+
+REINHARD VON LOHENGRAMM
+I am already aware of your views, gentlemen. You believe we face disaster, right?
+
+ID CARD
+Vice Admiral Staaden
+
+STAADEN
+The truth is, the enemy does have us at a great disadvantage.
+At the very least, we must develop a new strategy to minimize the damage.
+
+REINHARD VON LOHENGRAMM
+In other words, you want us to withdraw. But that is exactly what we must not do. I will not even consider a retreat.
+
+STAADEN
+But why? Surely you can give us a reason.
+
+REINHARD VON LOHENGRAMM
+Because, despite all appearances, we hold the upper hand!
+
+ID CARD
+Planet Phezzan
+
+ADRIAN RUBINSKY
+This is just one of many battles which we must concede to the Alliance. The final victor is still undecided. The clouds of war simply won't clear. For the time being, our territory, Phezzan is a mere onlooker. But if the Empire and the Alliance get tired of war, our Phezzan will make a profit.
+
+ID CARD
+Adrian Rubinsky
+
+REINHARD VON LOHENGRAMM
+Now, we will advance. This is the plan I have approved.
+
+STAADEN
+That's just supposition! Your Excellency, it can't succeed...
+
+REINHARD VON LOHENGRAMM
+Enough!
+You are all under my command.
+If you do not obey these orders, then I, acting under Imperial military law will relieve you of your duties, and see that you are punished.
+Enough. Dismissed. This discussion is over.
+
+STAADEN
+That conceited blond brat...
+
+ID CARD
+Rear Admiral Erlache
+
+ERLACHE
+He's just using his sister's relationship with His Majesty to further his career.
+
+MERKATZ
+It's his youth. Even though he's now a man, he still acts like a child.
+
+SIEGFRIED KIRCHEIS
+Was that wise? Saying that...
+
+REINHARD VON LOHENGRAMM
+Forget it. Their attitude will change when we win.
+
+SIEGFRIED KIRCHEIS
+Today's your sister's birthday.
+
+REINHARD VON LOHENGRAMM
+I mustn't forget. Our victory today will be her birthday present.
+
+ID CARD
+Neue Sanssouci
+
+ID CARD
+Annerose von Grunewald
+
+LICHTENLADE
+The report says the Alliance forces are twice that of ours.
+
+KAISER FRIEDRICH
+Will we lose this time?
+
+LICHTENLADE
+That is definitely possible.
+
+KAISER FRIEDRICH
+I see. The commander of the subjugation forces is her little brother, isn't he?
+
+LICHTENLADE
+The heir to the name of Count Lohengramm is fighting at the front?
+Rather a bad state of affairs...
+
+ID CARD
+Secretary of State Klaus von Lichtenlade
+
+ID CARD
+Kaiser Friedrich IV
+
+KAISER FRIEDRICH
+That's him. In repose, the resemblance is clear.
+
+ANNEROSE
+Sieg, take care of Reinhard, won't you?
+
+SIEGFRIED KIRCHEIS
+Okay.
+
+REINHARD VON LOHENGRAMM
+Don't worry so. We'll win. But...
+
+SIEGFRIED KIRCHEIS
+Are you worried about something?
+
+REINHARD VON LOHENGRAMM
+There is one problem.
+
+SIEGFRIED KIRCHEIS
+Yes?
+
+REINHARD VON LOHENGRAMM
+That enemy soldier.
+
+SIEGFRIED KIRCHEIS
+The one called the "Hero of El Facil."
+
+REINHARD VON LOHENGRAMM
+Yes.
+
+ID CARD
+2nd Fleet Flagship Patoroklos
+
+ID CARD
+Vice Admiral Paeta
+
+PAETA
+Commodore Yang Wenli, at your request, we have read this plan. However, it seems to be overly cautious.
+We're more than a match for the enemy. We have twice as many ships.This is not a time to worry about defeat. It's a time for fighting. Why, after all this time, should we worry about losing?
+
+ID CARD
+Commodore Yang Wenli
+
+YANG WENLI
+But we don't know what will happen on the battlefield. We can't afford to be careless.
+
+PAETA
+At any rate, all present agree. This plan is turned down. 
+Go. But there's no reason to give up on you.
+
+YANG WENLI
+Those words are praise enough.
+Well, then...
+
+DUSTY ATTENBOROUGH
+Again?
+
+YANG WENLI
+It was my bad luck to have those instructors. My presentation did not go well.
+
+ID CARD
+Commander Dusty Attenborough
+
+DUSTY ATTENBOROUGH
+It can't be helped. They're very stubborn because of their age.
+
+YANG WENLI
+True. We don't like to grow old, do we?
+
+DUSTY ATTENBOROUGH
+But, leaving it up to old fogies? We'll win this time, won't we?
+
+YANG WENLI
+Superior numbers. Victory's been promised.
+But... 
+
+DUSTY ATTENBOROUGH
+But?
+
+YANG WENLI
+That fellow... the enemy commander.
+
+DUSTY ATTENBOROUGH
+Reinhard von Lohengramm. One of their High Admirals?
+
+YANG WENLI
+Yes, the commander of the white ship. I don't know what he'll do.
+
+DUSTY ATTENBOROUGH
+I'm not looking forward to going to the afterlife.
+
+YANG WENLI
+Right. So I won't take my eyes off him.
+But the commander turned down my plan...
+Well, shall we go?
+
+DUSTY ATTENBOROUGH
+Let me see it.
+
+YANG WENLI
+What's the point?
+
+ID CARD
+Iserlohn Fortress
+
+STOCKHAUSEN
+Our fleet at Astate is scarcely 20,000.
+
+SEECKT
+This time, we'll see that impudent blond brat humiliated.
+
+STOCKHAUSEN
+But he...maybe he'll repel the enemy with some strange plan again.
+
+SEECKT
+But his current fleet is not the same one that did so well before.
+
+STOCKHAUSEN
+Meaning?
+
+SEECKT
+The staff officers who helped him out with personnel matters aren't participating this time. One man can't win the war.
+Being a good staff officer, he will win if he executes his plan correctly.
+
+STOCKHAUSEN
+Whereupon, he will appear very good because he wouldn't accept anything less than total victory.
+
+SEECKT
+But you won't hear talk of winning, right?
+
+LOUDSPEAKER
+The enemy's strength at Astate has been announced as twice that of our forces. Let's anticipate victory for our Imperial Forces...
+
+REUENTHAL
+You've been separated from him for four months?
+
+MITTERMEYER
+Don't talk about the military's personnel actions, OK?
+Well, none of the others will be under him, either.
+
+ID CARD
+Vice Admiral Oskar von Reuental
+
+REUENTHAL
+Yes. Now, just the redhead will be so lucky.
+Can he survive without us?
+
+ID CARD
+Vice Admiral Wolfgang Mittermeyer
+
+MITTERMEYER
+Regardless, we can't help him from here.
+It's OK. He'll surely win.
+
+REUENTHAL
+Yes. I hope so, too.
+
+ID CARD
+Captain Paul von Oberstein
+
+LOUDSPEAKER
+The Battle of Astate will begin soon.
+
+RUBINSKY
+(Laughs)
+
+REINHARD VON LOHENGRAMM
+All ships, advance towards the enemy.
+
+LOUDDSPEAKER
+Contrary to expectations, the Imperial Forces will engage the 4th Fleet.
+
+PAETA
+What?! That's absurd! It's impossible!
+
+YANG WENLI
+If I were him, I would have considered doing the same thing.
+
+DUSTY ATTENBOROUGH
+It's not your fault. You tried to tell them.
+
+REINHARD VON LOHENGRAMM
+All ships! Frontal attack on the enemy!
+
+DUSTY ATTENBOROUGH
+(Reading Yang's plan)
+If the enemy has good morale, I don't think this'll take too long. I think there's a good chance they'll crush each of our separate forces.
+
+DUSTY ATTENBOROUGH
+The enemy was thinking of that, after all. A counter for this...
+
+YANG WENLI
+Even if you read it, it's no use. It's already too late to use that plan.
+But there's still another way...
+Only, if we don't do it, 20,000 ships... Maybe even 40,000 ships will be destroyed.
+That's not going to hurt the enemy very much.
+
+LOUDSPEAKER
+Enemy fleet total: 13,000.
+
+REINHARD VON LOHENGRAMM
+It's simply a matter of numbers. Isn't it just a matter of time until we win?
+
+SIEGFRIED KIRCHEIS
+Yes, as you say.
+
+PAETA (internally)
+The plan to envelop the enemy with 40,000... If attacked individually, each separate fleet is 13,000.
+20,000 against 13,000...
+Our side will definitely lose.
+
+ID CARD
+4th Fleet Flagship Leonidas
+
+PASTOLL
+What's the meaning of this?! Counterattack!
+All ships, prepare for battle!
+Launch all Spartanian ships!
+
+LOUDSPEAKER
+They're already under heavy attack!
+There's no time to launch!
+4th Fleet carriers under fire from heavy weapons!
+Launching is impossible!
+Because the enemy's jamming communications, the situation's unknown beyond that!
+
+PAETA
+What a mess!
+With the fighters stuck inside, we're just sitting ducks!
+2nd Fleet, prepare to launch all fighters!
+
+POPLAN
+We're saved! We can get out!
+
+KONEV
+Well, outside or not, the situation's impossible!
+
+POPLAN
+But forget about dying in a ship like this.
+
+ID CARD
+Olivier Poplan
+
+LOUDSPEAKER
+2nd Fleet, preparations for fighter launch complete.
+
+PAETA
+Good! The 2nd Fleet will go to the 4th Fleet's aid!
+
+YANG WENLI
+Please wait!
+The battle's already ending! The enemy's leaving.
+They're moving to the rear faster than the 2nd and 6th Fleets and risking a counterattack. This gives us the upper hand.
+However, there's nothing we can do about the present situation. I don't think we need to anticipate the enemy's plans more than this.
+
+PAETA
+Well, then give me your recommendations.
+
+YANG WENLI
+Join with the 6th Fleet. 
+First of all, we'll take a shortcut to join them as soon as possible. When the 2nd and 6th Fleets are combined, we'll have 26,000 ships. With 6000 more than the enemy, we can force a draw.
+
+PAETA
+So you're saying we should abandon the 4th Fleet?
+
+YANG WENLI
+No matter how you put it, we don't have time. This is a vast universe. How many hours do you think it'll take to get to them?
+
+PAETA
+But we can't abandon our allies.
+
+YANG WENLI
+If we don't, we'll all end up victims of the enemy's plan to crush us individually.
+
+PAETA
+And so it can't be helped, even if the 4th Fleet ends up helplessly broken. 
+If they're holding out...
+
+YANG WENLI
+I told you a little while ago that it's hopeless.
+
+PAETA
+Vice Admiral Pastoll, the commander of the 4th Fleet. He's my friend. He's an experienced commander of 100 battles. There's no reason to believe he'll be easily beaten.
+Enough, Commodore. We will not abandon our allies.
+
+YANG WENLI
+I guess friendship is important.
+I also have a friend in the 6th Fleet and I don't wish to abandon him.
+I also have another in the 2nd Fleet.
+Even if we lose the 4th Fleet...
+
+LOUDSPEAKER
+The condition of the 4th Fleet is unknown.
+
+PAETA
+There is more hope than not.
+The 2nd Fleet will head for the 4th Fleet and go to its aid.
+Understood?
+
+YANG WENLI
+If that's your command, then this is not my time.
+Well...
+
+YANG WENLI
+It's become an awkward situation.
+I must think of one more plan. At least, a means to stay alive.
+
+DUSTY ATTENBOROUGH
+Because we're going to the rescue, we'll be defeated twice. It's like an uphill battle.
+
+YANG WENLI
+That brings me to the 6th Fleet once more.
+The operations staff officer from the same class as mine. He's a brilliant guy.
+
+DUSTY ATTENBOROUGH
+You mean Lap?
+
+YANG WENLI
+Yes. If we can avoid his superior officer, I should be able to get his opinions.
+He thinks somewhat differently from me, you see...
+
+ID CARD
+6th Fleet Flagship Pergamonn
+
+SIXTH FLEET COMMANDER
+What? Lt Commander Lap, what did you just say?
+
+ID CARD
+Lt Commander Jean Robert Lap
+
+JEAN ROBERT LAP
+Sir, in my humble opinion, the 4th Fleet is already beaten.
+
+SIXTH FLEET COMMANDER
+Are you saying we should abandon the 4th Fleet?
+
+JEAN ROBERT LAP
+Yes. In addition, we should join with the 2nd Fleet as soon as possible.
+
+SIXTH FLEET COMMANDER
+And by that time, the 4th Fleet will be massacred, won't it?
+
+JEAN ROBERT LAP
+Even so, there's no time.
+The enemy will destroy us, right before our eyes.
+
+SIXTH FLEET COMMANDER
+Destroy us?!
+We'll destroy them!
+We'll go to the aid of the 4th Fleet!
+
+JEAN ROBERT LAP
+Yes, sir. I'm sorry for that silly idea.
+If I were Yang, what would I do?
+
+MERKATZ (Over video call)
+The fighting is over. It's a total victory. From now on, it's simply slaughter.
+
+REINHARD VON LOHENGRAMM
+That's unnecessary.
+
+MERKATZ
+Ah?
+
+REINHARD VON LOHENGRAMM
+We should ignore the enemy wounded.
+The enemy still has two fleets. The best way to use our strength is to prepare for the next battle.
+
+MERKATZ
+Understood, Your Excellency.
+
+REINHARD VON LOHENGRAMM
+Their attitude has changed a little.
+
+SIEGFRIED KIRCHEIS
+It can't help but change, I suppose. And the Admirals' hostility, too.
+
+REINHARD VON LOHENGRAMM
+Which fleet do you think will attack next, Kircheis?
+
+SIEGFRIED KIRCHEIS
+The left one or the right? Although it could go either way, you always know.
+
+REINHARD VON LOHENGRAMM
+Well then, how much time until then?
+
+SIEGFRIED KIRCHEIS
+Four hours.
+
+REINHARD VON LOHENGRAMM
+You...You've seen it, too, haven't you?
+Then pass the command to all ships. Change course and proceed in a clockwise direction towards the enemy's 6th Fleet.
+
+SIEGFRIED KIRCHEIS
+Very well.
+
+REINHARD VON LOHENGRAMM
+Do you object?
+
+SIEGFRIED KIRCHEIS
+No, it's not that, but we can use this time. How about letting the soldiers take a rest?
+
+REINHARD VON LOHENGRAMM
+Oh, yes, I didn't notice. The timing?
+
+SIEGFRIED KIRCHEIS
+In two 1 1/2 hour shifts.
+
+REINHARD VON LOHENGRAMM
+Yes.
+
+TONIO
+Maybe we're lucky after all.
+
+KURT
+Yes. Our young commander will do pretty well. 
+But the war still goes on for us mere soldiers. In order to stay alive, we have to rest when we can.
+
+TONIO
+A lot of wounded.
+
+KURT
+Nowadays, you don't die unless you're hurt pretty bad.
+My arm's like this.
+But in this war, with one hit, it's boom. So there are far more wounded.
+Who knows whether we'll live or die?
+Well, let's get some sleep.
+
+TONIO
+But in the tank bed, it's just one hour of sleep, isn't it?
+
+KURT
+In one hour it can take away the fatigue like eight hours of ordinary sleep.
+
+TONIO
+It just takes away the fatigue. There's no time to dream!
+
+KURT
+There's no need to dream during a war.
+At any rate, you'd only have nightmares.
+
+LOUDSPEAKER
+We've contacted the enemy 6th Fleet!
+
+REINHARD VON LOHENGRAMM
+Commence attack!
+
+LOUDSPEAKER
+Ships detected at 4:30!
+
+SIXTH FLEET COMMANDER
+4:30?!
+
+JEAN ROBERT LAPP
+It's the enemy! Prepare a counterattack!
+
+SIXTH FLEET COMMANDER
+In the confusion, the enemy arrived. They can't be in that direction.
+
+JEAN ROBERT LAPP
+But they are, Admiral. The enemy probably moved the battlefield.
+
+SIXTH FLEET COMMANDER
+They didn't attack the 4th Fleet?
+
+JEAN ROBERT LAPP
+I already told you! The 4th Fleet is defeated!
+
+SIXTH FLEET COMMANDER
+Don't say unpleasant things! 
+
+JEAN ROBERT LAPP
+The truth is very unpleasant!
+
+LOUDSPEAKER
+Enemy attack!
+
+SIXTH FLEET COMMANDER
+Return fire! Turn and return fire!
+
+JEAN ROBERT LAPP
+You mustn't! It's plain to see that they'll win!
+We have to reduce our losses, even a little!
+
+SIXTH FLEET COMMANDER
+Shut up!
+I won't retreat like a coward!
+
+JEAN ROBERT LAPP
+Yang...don't end up like this...
+Jessica, I won't see you again, either...
+I'll vanish here.
+Forgive...
+
+LOUDSPEAKER
+The 6th Fleet is destroyed.
+
+PAETA
+What?!
+
+YANG WENLI
+Lt Commander Lap...
+
+DUSTY ATTENBOROUGH
+Even though he was good, he was wasted under an incompetent commander.
+
+LOUDSPEAKER
+Enemy fleet, contacting our fleet.
+
+PAETA
+Now, without the 4th and the 6th Fleets besides being outnumbered, our position's hopeless.
+
+YANG WENLI
+Admiral, prepare all ships to attack!
+
+PAETA
+O...oh, that's right...
+
+YANG (Internally)
+Lap, I won't be beaten so easily.
+
+MERKATZ (Over video call)
+Victory is already certain.
+
+REINHARD VON LOHENGRAMM
+Don't let up until it's over. We still don't know what will happen.
+If he is in that fleet...
+
+SIEGFRIED KIRCHEIS
+Commodore Yang Wenli?
+
+REINHARD VON LOHENGRAMM
+Yes. As you say.
+
+NARRATOR
+Even while saying that, the man Reinhard who will later be called invincible, was almost convinced.
+
+TITLE CARD
+Into the Eternal Night
+
+END THEME
+"Across the Bridge of Light"
